@@ -39,4 +39,4 @@ Follow these steps to enable the `mod_rewrite` module in the application contain
 
 ---
 
-Follow these instructions to properly set up the database and enable necessary modules for your application.
+Use these instructions to correctly set up the database and enable the `mod_rewrite` module for URL rewriting in your application. For step-by-step videos and detailed documentation, please refer to the following link:(https://drive.google.com/file/d/1qXCRmOYCVuoms-76YUK-E9ZOalttT59X/view?usp=sharing).
