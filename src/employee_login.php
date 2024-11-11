@@ -1,6 +1,6 @@
 <?php 
-    include "./models/login.php";
-    include "./session.php";
+    include "models/login.php";
+    include "session.php";
 
     $errors = []; 
 
