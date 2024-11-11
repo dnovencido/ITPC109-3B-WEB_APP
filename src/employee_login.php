@@ -5,7 +5,7 @@
     $errors = []; 
 
     if(isset($_SESSION['id'])) {
-        header("Location: account");
+        header("Location: /employee/account");
     }
 
     if(isset($_POST['submit'])) {
